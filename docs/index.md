@@ -1,6 +1,6 @@
 ---
-layout:default
-title:我的主页
+layout: default
+title: 我的主页
 ---
 
 ## 欢迎来到我的生物信息学课程网站！
