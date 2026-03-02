@@ -1,6 +1,6 @@
 ---
-layout： default
-title： 课堂笔记导览页
+layout: default
+title: 课堂笔记导览页
 ---
 
 # 课堂笔记导览页
