@@ -1,0 +1,117 @@
+/* style.css */
+:root {
+    --header-bg: #2c3e50;
+    --header-text: #ecf0f1;
+    --header-hover: #3498db;
+    --footer-bg: #34495e;
+    --footer-text: #bdc3c7;
+    --footer-link: #ecf0f1;
+    --font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    padding: 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* 页眉样式 */
+.site-header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.site-title a {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--header-text);
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.site-title a:hover {
+    color: var(--header-hover);
+}
+
+.home-button a {
+    background-color: transparent;
+    color: var(--header-text);
+    border: 2px solid var(--header-text);
+    padding: 0.5rem 1.2rem;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.home-button a:hover {
+    background-color: var(--header-text);
+    color: var(--header-bg);
+    border-color: var(--header-text);
+}
+
+/* 页脚样式 */
+.site-footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-info {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+.footer-info p {
+    margin: 0.3rem 0;
+}
+
+.footer-info a {
+    color: var(--footer-link);
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+    transition: border-color 0.2s;
+}
+
+.footer-info a:hover {
+    border-bottom-color: var(--footer-link);
+}
+
+.footer-copyright {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 1rem;
+}
