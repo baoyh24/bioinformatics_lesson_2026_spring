@@ -1,14 +1,14 @@
 /* style.css */
 :root {
     /* 页眉颜色 */
-    --header-bg: #2c3e50;        /* 页眉背景色（深蓝灰） */
-    --header-text: #ecf0f1;       /* 页眉文字颜色（浅灰） */
-    --header-hover: #3498db;       /* 链接悬停颜色（亮蓝） */
+    --header-bg: #f08080;        /* 页眉背景色（深蓝灰） */
+    --header-text: #ffffff;       /* 页眉文字颜色（浅灰） */
+    --header-hover: #dc143c;       /* 链接悬停颜色（亮蓝） */
 
     /* 页脚颜色 */
-    --footer-bg: #34495e;          /* 页脚背景色（稍深深蓝灰） */
-    --footer-text: #bdc3c7;         /* 页脚文字颜色（浅灰） */
-    --footer-link: #ecf0f1;          /* 页脚链接颜色 */
+    --footer-bg: #b0e0e6;          /* 页脚背景色（稍深深蓝灰） */
+    --footer-text: #008080;         /* 页脚文字颜色（浅灰） */
+    --footer-link: #008080;          /* 页脚链接颜色 */
 
     /* 通用 */
     --font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
