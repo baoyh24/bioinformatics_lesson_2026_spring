@@ -1,11 +1,16 @@
 /* style.css */
 :root {
-    --header-bg: #2c3e50;
-    --header-text: #ecf0f1;
-    --header-hover: #3498db;
-    --footer-bg: #34495e;
-    --footer-text: #bdc3c7;
-    --footer-link: #ecf0f1;
+    /* 页眉颜色 */
+    --header-bg: #2c3e50;        /* 页眉背景色（深蓝灰） */
+    --header-text: #ecf0f1;       /* 页眉文字颜色（浅灰） */
+    --header-hover: #3498db;       /* 链接悬停颜色（亮蓝） */
+
+    /* 页脚颜色 */
+    --footer-bg: #34495e;          /* 页脚背景色（稍深深蓝灰） */
+    --footer-text: #bdc3c7;         /* 页脚文字颜色（浅灰） */
+    --footer-link: #ecf0f1;          /* 页脚链接颜色 */
+
+    /* 通用 */
     --font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
 }
 
@@ -31,58 +36,40 @@ body {
     width: 100%;
 }
 
-/* 页眉样式 */
+/* ========== 页眉样式 ========== */
 .site-header {
     background-color: var(--header-bg);
     color: var(--header-text);
-    padding: 1rem 2rem;
+    padding: 1.5rem 1rem;          /* 增加垂直内边距，让页眉更饱满 */
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;             /* 使内部内容居中 */
 }
 
 .header-container {
     max-width: 1200px;
     margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
 }
 
+/* 网站大标题（同时也是返回首页的链接） */
 .site-title a {
-    font-size: 1.8rem;
+    font-size: 2.5rem;              /* 调大字号 */
     font-weight: 700;
     color: var(--header-text);
     text-decoration: none;
     letter-spacing: 1px;
+    display: inline-block;           /* 让链接在居中状态下正常显示 */
 }
 
 .site-title a:hover {
     color: var(--header-hover);
 }
 
-.home-button a {
-    background-color: transparent;
-    color: var(--header-text);
-    border: 2px solid var(--header-text);
-    padding: 0.5rem 1.2rem;
-    border-radius: 30px;
-    text-decoration: none;
-    font-weight: 500;
-    transition: all 0.3s;
-}
-
-.home-button a:hover {
-    background-color: var(--header-text);
-    color: var(--header-bg);
-    border-color: var(--header-text);
-}
-
-/* 页脚样式 */
+/* ========== 页脚样式 ========== */
 .site-footer {
     background-color: var(--footer-bg);
     color: var(--footer-text);
     padding: 2rem 1rem;
-    text-align: center;
+    text-align: center;              /* 确保页脚所有内容居中 */
 }
 
 .footer-container {
