@@ -19,7 +19,7 @@ title: 我的主页
 <br>
 <br>
 
-## 我的课程笔记
+## [我的课程笔记](/content/lecture_note)
 <br>
 >一些课堂PPT重点，如果本人能够熟练使用markdown可能还会写点作业中的东西
 <br>
