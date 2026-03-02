@@ -12,6 +12,8 @@
 
     /* 通用 */
     --font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+    /* 链接 */
+    --link-color: #008080
 }
 
 * {
