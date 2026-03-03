@@ -16,7 +16,6 @@ title: note of lecture 1
 <br>
 <br>
 
----
 ## “AI4Omics”基础能力  
 -biology and medical science  
 -math  
@@ -26,10 +25,10 @@ title: note of lecture 1
 >self-learning&group study
 <br>
 <br>
----
 
 ## 4 steps of bioinformatics  
 >解读“language of life”
+
 ### 1. question  
 -意识  
 -基因（为什么如此之少？如何影响健康？）  
@@ -59,7 +58,6 @@ title: note of lecture 1
 <br>
 <br>
 
----
 ## new paradigm driven by big-data 
 
 ### traditional hypothesis-driven science  
