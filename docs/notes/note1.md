@@ -38,14 +38,14 @@ title: note of lecture 1
 ### 2. information  
 -生命信息编码形式：DNA/RNA序列  
 -NGS(next generation sequencing)  
-  -DNA-seq  
-  -RNA-seq  
-  -epigenetics  
-  -DNA/RNA/Protein interactions  
+    -DNA-seq  
+    -RNA-seq  
+    -epigenetics  
+    -DNA/RNA/Protein interactions  
 -大数据/高维数据：多个体/多细胞/多组学  
 -宏基因组数据： 
-  -environmental  
-  -organismal  
+    -environmental  
+    -organismal  
 <br>
 ### 3. analysis  
 -方法：NGS+bioinformatics tool  
@@ -53,10 +53,10 @@ title: note of lecture 1
 <br>
 ### 4. modeling  
 -probabilistic model  
-  -regression model：linear/logistic  
-  -neural network model：deep learning  
+    -regression model：linear/logistic  
+    -neural network model：deep learning  
 -computational algorithm  
-  -e.g. number sorting algorithm, dynamic programming algorithm  
+    -e.g. number sorting algorithm, dynamic programming algorithm  
 <br>
 <br>
 
