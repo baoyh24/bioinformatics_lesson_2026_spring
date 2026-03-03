@@ -15,6 +15,7 @@ title: note of lecture 1
 >需要有一定linux基础
 <br>
 <br>
+
 ---
 ## “AI4Omics”基础能力  
 -biology and medical science  
@@ -26,6 +27,7 @@ title: note of lecture 1
 <br>
 <br>
 ---
+
 ## 4 steps of bioinformatics  
 >解读“language of life”
 ### 1. question  
