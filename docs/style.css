@@ -12,8 +12,7 @@
 
     /* 通用 */
     --font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-    /* 链接 */
-    --link-color: #008080
+
 }
 
 * {
@@ -111,4 +110,12 @@ blockquote {
 /* 缩进 */
 ul ul {
   padding-left: 2em;   /* 或 margin-left */
+}
+
+/* 选择页面上的所有链接 (<a> 标签) */
+a {
+    /* 修改链接文字颜色，这里以深灰色 (#333) 为例，替换掉默认的蓝色 */
+    color: #2f4f4f; 
+    /* 移除链接默认的下划线 */
+    text-decoration: none; 
 }
