@@ -8,6 +8,7 @@ title: note of lecture 1
 <br>
 
 ## 课程基础要求  
+<br>
 -数学基础  
 -软件安装  
 -基本编程能力  
@@ -17,6 +18,7 @@ title: note of lecture 1
 <br>
 
 ## “AI4Omics”基础能力  
+<br>
 -biology and medical science  
 -math  
 -bioinformatics  
@@ -32,7 +34,7 @@ title: note of lecture 1
 ### 1. question  
 -意识  
 -基因（为什么如此之少？如何影响健康？）  
-
+<br>
 ### 2. information  
 -生命信息编码形式：DNA/RNA序列  
 -NGS(next generation sequencing)  
@@ -44,11 +46,11 @@ title: note of lecture 1
 -宏基因组数据： 
   -environmental  
   -organismal  
-
+<br>
 ### 3. analysis  
 -方法：NGS+bioinformatics tool  
 -例子：RNA variantions；cell types；gene signatures  
-
+<br>
 ### 4. modeling  
 -probabilistic model  
   -regression model：linear/logistic  
@@ -59,12 +61,14 @@ title: note of lecture 1
 <br>
 
 ## new paradigm driven by big-data 
+<br>
 
 ### traditional hypothesis-driven science  
 -question  
 -information  
 -analysis  
 -modeling  
+<br>
 
 ### big-data driven science  
 -information  
