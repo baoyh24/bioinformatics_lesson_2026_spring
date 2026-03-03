@@ -82,7 +82,7 @@ title: note of lecture 1
 ---
 ## 思考题：算法与模型的区别？  
 <br>
-<img width="2256" height="806" alt="屏幕截图 2026-03-03 191259" src="https://github.com/user-attachments/assets/9ff32bee-1925-4a13-bfad-bc16e5885776" />
+<img width="2256" height="806" alt="屏幕截图 2026-03-03 191259" src="https://github.com/user-attachments/assets/9ff32bee-1925-4a13-bfad-bc16e5885776" />{: style="width: 80%;"}
 
 <br>
 
