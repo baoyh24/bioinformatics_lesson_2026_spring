@@ -3,4 +3,6 @@ layout: default
 title: note of lecture 1
 ---
 
+
 # lecture 1 课堂笔记
+
