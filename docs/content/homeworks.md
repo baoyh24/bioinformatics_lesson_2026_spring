@@ -2,9 +2,9 @@
 
 <br>
 
-## [homework_2.1](../homework/homework_2.1)
+## [homework_2.1](../homework/homework_2.1.html)
 
 <br>
 
-## [homeworl_2.2](../homework/homework_2.2)
+## [homeworl_2.2](../homework/homework_2.2.html)
 
